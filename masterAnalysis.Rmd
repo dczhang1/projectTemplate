@@ -1,0 +1,16 @@
+---
+title: "Your Document Title"
+author: "Document Author"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+---
+
+```{r Master Run, include=FALSE}
+            source('01_initiationScript.R')
+            source('02_dataMgt.R')
+```
+
+
