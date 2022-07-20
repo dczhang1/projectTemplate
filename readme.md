@@ -1,8 +1,8 @@
-# Read Me
+# ReadMe
 
 ## Project Title:
 
-## Authors:
+## Authors: 
 
 ## Project Description:
 

@@ -8,7 +8,6 @@
             library(easystats)
             library(jmv)
             library(apaTables)
-            library(papaja)
             set.seed(6958683) # Set an arbitrary seed for reproducibility
 
 ## Utilities -----
